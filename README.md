@@ -1,14 +1,14 @@
 Usage: -f <zip file> -d <dict> 
 
 +=======================================+
-|..........Zip Cracker v 2.............................................|
+|..........Zip Cracker v ............................................|
 +--------------------------------------------------------------+
 |#Author: JUSTIN |
-|#Contact: https://www.facebook.com/
-groups/655647931192526 / |
+|#Contact: https://github.com/linuxjustin/ZipCracker |
 |#Date: 11/08/2017 |
 |#this tools just for test |
 |#i dont' need the opportunity to hack |
 +=======================================+
 |..........Zip Cracker...........................................|
 +-------------------------------------------------------------+
+Usage: -f <zip file> -d <dict> 
