@@ -1,11 +1,10 @@
-###@@@###Zip Cracker v2 ###@@###
+###@@@###Zip Cracker ###@@###
 justin = '''
 +=======================================+
-|..........Zip Cracker v 2.............................................|
+|..........Zip Cracker............................................|
 +--------------------------------------------------------------+
 |#Author: JUSTIN |
-|#Contact: https://www.facebook.com/
-groups/655647931192526 / |
+|#Contact: https://github.com/linuxjustin/ZipCracker|
 |#Date: 11/08/2017 |
 |#this tools just for test |
 |#i dont' need the opportunity to hack |
